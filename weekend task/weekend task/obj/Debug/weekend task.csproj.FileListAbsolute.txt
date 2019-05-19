@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\weekend task\weekend task\bin\Debug\weekend task.exe.config
+C:\Users\User\source\repos\weekend task\weekend task\bin\Debug\weekend task.exe
+C:\Users\User\source\repos\weekend task\weekend task\bin\Debug\weekend task.pdb
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend task.csprojAssemblyReference.cache
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend_task.Properties.Resources.resources
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend task.csproj.GenerateResource.cache
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend task.exe
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend task.pdb
+C:\Users\User\source\repos\weekend task\weekend task\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\weekend task\weekend task\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\weekend task\weekend task\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\weekend task\weekend task\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend_task.main.resources
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend task.csproj.CopyComplete
+C:\Users\User\source\repos\weekend task\weekend task\obj\Debug\weekend_task.Form2.resources
